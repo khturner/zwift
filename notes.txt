@@ -1,0 +1,9 @@
+1/15/187 brainstorming
+
+Things to do
+-parse ride date / time
+-calculate power curve
+-store FTP test results and merge in (most recent FTP for each ride)
+-categorize by zones
+-import weight from somewhere (fitbit?), calculate w/kg
+-calculate calories (1 w/s = 1 J, 4.1874 J = 1 kcal)
